@@ -1,6 +1,6 @@
 ### 🌟 简介
 ------
-本项目是对论文 [DOI: 10.3847/1538-4357/abb5b6](https://www.doi.org/10.3847/1538-4357/abb5b6) 的 **PyTorch** 实现版本。
+本项目是对论文 [DOI: 10.3847/1538-4357/abb5b6](https://www.doi.org/10.3847/1538-4357/abb5b6) 的 **PyTorch** 实现。
 
 核心逻辑参考自：[Zenodo](https://zenodo.org/records/3979217)。
 
